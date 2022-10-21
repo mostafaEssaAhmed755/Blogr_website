@@ -1,0 +1,52 @@
+# Front-end Style Guide
+
+## Layout
+
+The designs were created to the following widths:
+
+-   Mobile: 375px
+-   Desktop: 1440px
+
+## Colors
+
+### Primary
+
+-   Light red (CTA text): hsl(356, 100%, 66%)
+-   Very light red (CTA hover background): hsl(355, 100%, 74%)
+-   Very dark blue (headings): hsl(208, 49%, 24%)
+
+### Neutral
+
+-   White (text): hsl(0, 0%, 100%)
+-   Very dark grayish blue (body copy): hsl(207, 13%, 34%)
+-   Grayish blue (footer text): hsl(240, 2%, 79%)
+-   Very dark black blue (footer background): hsl(240, 10%, 16%)
+
+### Gradient
+
+Background gradient - Intro/CTA mobile nav:
+
+-   Very light red: hsl(13, 100%, 72%) / #ff8f70
+-   Light red: hsl(353, 100%, 62%) / #ff3d54
+
+-   background: linear-gradient(125deg, rgba(255,143,112,1) 0%, rgba(255,61,84,1) 100%);
+    Background gradient - body:
+
+-   Very dark gray blue: hsl(237, 17%, 21%) / #2c2d3f
+-   Very dark desaturated blue: hsl(237, 23%, 32%) / #3f4164
+
+-   background: linear-gradient(90deg, rgba(44,45,63,1) 0%, rgba(63,65,100,1) 100%);
+
+## Typography
+
+### Body Copy
+
+-   Font size: 16px
+
+### Fonts
+
+-   Family: [Overpass](https://fonts.google.com/specimen/Overpass?preview.text_type=custom)
+-   Weights: 300, 600
+
+-   Family: [Ubuntu](https://fonts.google.com/specimen/Ubuntu?preview.text_type=custom)
+-   Weights: 400, 500, 700
