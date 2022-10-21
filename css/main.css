@@ -43,7 +43,7 @@ img {
 /* header */
 
 header {
-    background-image: url('/images/bg-pattern-intro-desktop.svg'),
+    background-image: url('../images/bg-pattern-intro-desktop.svg'),
                     var(--bg-ligth-red);
     background-position: 23% 52.9%;
     height: 600px;
@@ -118,7 +118,7 @@ header .img-link {
 
 /* Features */
 .features {
-    background-image: url('/images/illustration-editor-desktop.svg');
+    background-image: url('../images/illustration-editor-desktop.svg');
     background-repeat: no-repeat;
     background-position: 150% 50%;
     height: 148vh;
@@ -164,7 +164,7 @@ header .img-link {
 
 /* State */
 .state {
-    background-image: url('/images/bg-pattern-circles.svg'),
+    background-image: url('../images/bg-pattern-circles.svg'),
                     var(--bg-dark-blue);
     padding: 100px 0;
     border-radius: 0% 12% 0% 12% / 100% 40% 100% 40%;
@@ -206,7 +206,7 @@ header .img-link {
 }
 /* About */
 .about {
-    background-image: url('/images/illustration-laptop-desktop.svg');
+    background-image: url('../images/illustration-laptop-desktop.svg');
     background-repeat: no-repeat;
     background-position: -59% 55%;
     height: 148vh;
@@ -299,7 +299,7 @@ footer .links a:hover {
     }
     /* Header */
     header {
-        background-image: url('/images/bg-pattern-intro-mobile.svg'),
+        background-image: url('../images/bg-pattern-intro-mobile.svg'),
         var(--bg-ligth-red);
         background-position: 35% 33.9%;
         border-radius: 0% 100% 0% 33% / 100% 0% 100% 19%;
@@ -403,7 +403,7 @@ footer .links a:hover {
 
     /* Features */
     .features {
-        background-image: url('/images/illustration-editor-mobile.svg');
+        background-image: url('../images/illustration-editor-mobile.svg');
         background-position: 50% 15%;
         text-align: center;
         height: 220vh;
@@ -452,7 +452,7 @@ footer .links a:hover {
 
     /* About */
     .about {
-        background-image: url('/images/illustration-laptop-mobile.svg');
+        background-image: url('../images/illustration-laptop-mobile.svg');
         background-position: 50% 9%;
         padding-top: 450px;
         text-align: center;
